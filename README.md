@@ -16,7 +16,7 @@ This is a simple Kotlin project that demonstrates how to use Kotlin Project Mana
    Make sure you have KPM installed. You can find installation instructions on the [KPM repo](https://github.com/lheintzmann1/kpm).
 
 3. **Build the project**:
-   Run the following command to build the project:
+   Run the following commands to build the project:
 
    ```bash
    kpm install
