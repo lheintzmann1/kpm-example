@@ -1,0 +1,8 @@
+{
+  "name": "my-kotlin-app",
+  "version": "1.0",
+  "main": "com.example.app.AppKt",
+  "dependencies": [
+    
+  ]
+}
